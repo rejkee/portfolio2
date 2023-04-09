@@ -3,12 +3,6 @@ export default defineAppConfig({
     title: 'Portfolio',
     description: ' Portfolio',
     theme: 'dark',
-    image: {
-      src: '/social-card-preview.png',
-      alt: 'An image showcasing my project.',
-      width: 400,
-      height: 300
-    },
     header: {
       position: 'right',
       logo: false,
@@ -20,7 +14,7 @@ export default defineAppConfig({
       },
       navigation: true,
       alignment: 'center',
-      message: ''
+      message: 'Thank you for visiting my portfolio.'
     },
     socials: {
       mail: {
