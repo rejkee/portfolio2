@@ -30,8 +30,6 @@ export default defineAppConfig({
       }
     },
     form: {
-      action: 'submit',
-      href: 'mailto:rejkee@gmail.com',
       successMessage: 'Message sent. Thank you!',
     }
   }
