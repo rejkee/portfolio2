@@ -1,6 +1,6 @@
 {
-  "name": "alpine-starter",
-  "version": "0.1.0",
+  "name": "portfolio",
+  "version": "1.0",
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
@@ -9,7 +9,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "@nuxt-themes/alpine": "^1.6.5",
-    "nuxt": "^3.8.2"
+    "@nuxt-themes/alpine": "latest",
+    "nuxt": "^3.10.3"
   }
 }
