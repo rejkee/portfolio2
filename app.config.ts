@@ -9,10 +9,10 @@ export default defineAppConfig({
     },
     footer: {
       credits: {
-        enabled: false,
+        enabled: '',
         repository: 'https://github.com/rejkee'
       },
-      navigation: true,
+      navigation: '',
       alignment: 'center',
       message: 'Thank you for visiting my portfolio.'
     },
